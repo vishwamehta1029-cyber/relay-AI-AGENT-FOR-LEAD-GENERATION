@@ -1,0 +1,27 @@
+{
+  "offering": "Payroll automation software",
+  "titles": [
+    "CFO",
+    "VP Finance",
+    "Controller",
+    "Payroll Manager",
+    "Head of People"
+  ],
+  "seniorities": [
+    "c_suite",
+    "vp",
+    "head",
+    "director"
+  ],
+  "departments": [
+    "finance",
+    "human_resources"
+  ],
+  "exclude_titles": [
+    "intern",
+    "assistant",
+    "recruiter",
+    "talent acquisition"
+  ],
+  "reasoning": "Payroll automation is owned by Finance, with People Ops as daily users. 240 employees means VP and Director level."
+}

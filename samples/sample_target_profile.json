@@ -1,0 +1,9 @@
+{
+  "name": "Northwind Freight (fictional)",
+  "domain": "northwind-freight.example",
+  "industry": "Logistics and trucking",
+  "employee_count": 240,
+  "description": "Regional freight carrier with drivers in 6 states",
+  "location": "Portland, OR",
+  "hq_country": "United States"
+}

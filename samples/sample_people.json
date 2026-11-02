@@ -1,0 +1,132 @@
+[
+  {
+    "apollo_id": "p01",
+    "name": "Dana Whitfield",
+    "title": "Chief Financial Officer",
+    "seniority": "c_suite",
+    "departments": [
+      "master_finance"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p01",
+    "title_match": 1.0
+  },
+  {
+    "apollo_id": "p02",
+    "name": "Marcus Lee",
+    "title": "VP of Finance",
+    "seniority": "vp",
+    "departments": [
+      "master_finance"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p02",
+    "title_match": 1.0
+  },
+  {
+    "apollo_id": "p03",
+    "name": "Priya Raman",
+    "title": "Head of People",
+    "seniority": "head",
+    "departments": [
+      "master_human_resources"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p03",
+    "title_match": 1.0
+  },
+  {
+    "apollo_id": "p04",
+    "name": "Tom Okafor",
+    "title": "Controller",
+    "seniority": "director",
+    "departments": [
+      "master_finance"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p04",
+    "title_match": 1.0
+  },
+  {
+    "apollo_id": "p05",
+    "name": "Elena Sousa",
+    "title": "Payroll Manager",
+    "seniority": "manager",
+    "departments": [
+      "master_human_resources"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p05",
+    "title_match": 1.0
+  },
+  {
+    "apollo_id": "p06",
+    "name": "Ken Mattson",
+    "title": "Director of Accounting",
+    "seniority": "director",
+    "departments": [
+      "master_finance"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p06",
+    "title_match": 0.6
+  },
+  {
+    "apollo_id": "p07",
+    "name": "Ruth Alvarez",
+    "title": "HR Business Partner",
+    "seniority": "senior",
+    "departments": [
+      "master_human_resources"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p07",
+    "title_match": 0.6
+  },
+  {
+    "apollo_id": "p08",
+    "name": "Sam Hughes",
+    "title": "VP Operations",
+    "seniority": "vp",
+    "departments": [
+      "master_operations"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p08",
+    "title_match": 0.3
+  },
+  {
+    "apollo_id": "p09",
+    "name": "Jordan Pike",
+    "title": "Senior Recruiter",
+    "seniority": "senior",
+    "departments": [
+      "master_human_resources"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p09",
+    "title_match": 0.3
+  },
+  {
+    "apollo_id": "p10",
+    "name": "Ava Chen",
+    "title": "Finance Intern",
+    "seniority": "intern",
+    "departments": [
+      "master_finance"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p10",
+    "title_match": 0.3
+  },
+  {
+    "apollo_id": "p11",
+    "name": "Leo Grant",
+    "title": "Director of Fleet Safety",
+    "seniority": "director",
+    "departments": [
+      "master_operations"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p11",
+    "title_match": 0.0
+  },
+  {
+    "apollo_id": "p12",
+    "name": "Nina Brooks",
+    "title": "Executive Assistant to CEO",
+    "seniority": "entry",
+    "departments": [],
+    "linkedin_url": "https://www.linkedin.com/in/sample-p12",
+    "title_match": 0.0
+  }
+]

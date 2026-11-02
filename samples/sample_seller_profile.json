@@ -1,0 +1,20 @@
+{
+  "company": "Ledgerline (fictional)",
+  "domain": "ledgerline.example",
+  "offerings": [
+    {
+      "name": "Ledgerline Payroll",
+      "what_it_is": "Payroll automation software for mid-size companies",
+      "problem_solved": "Manual payroll runs that take days and cause errors",
+      "buyer_function": "Finance",
+      "economic_buyer": "CFO or VP Finance",
+      "day_to_day_user": "Payroll Manager, People Ops"
+    }
+  ],
+  "chosen_offering": "Ledgerline Payroll",
+  "ideal_customer": "100 to 1,000 employees, multi-state workforce",
+  "proof_points": [],
+  "source_pages": [
+    "sample data, no real pages"
+  ]
+}

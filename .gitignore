@@ -1,0 +1,6 @@
+runs/
+relay_data/
+*.xlsx
+__pycache__/
+.DS_Store
+.env

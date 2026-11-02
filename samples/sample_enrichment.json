@@ -1,0 +1,34 @@
+{
+  "p01": {
+    "email": "dana.whitfield@northwind-freight.example",
+    "email_status": "verified"
+  },
+  "p02": {
+    "email": "marcus.lee@northwind-freight.example",
+    "email_status": "verified"
+  },
+  "p03": {
+    "email": "priya.raman@northwind-freight.example",
+    "email_status": "verified"
+  },
+  "p04": {
+    "email": "tom.okafor@northwind-freight.example",
+    "email_status": "unverified"
+  },
+  "p05": {
+    "email": "elena.sousa@gmail.example",
+    "email_status": "verified"
+  },
+  "p06": {
+    "email": "ken.mattson@northwind-freight.example",
+    "email_status": "verified"
+  },
+  "p07": {
+    "email": "",
+    "email_status": "unavailable"
+  },
+  "p08": {
+    "email": "sam.hughes@northwind-freight.example",
+    "email_status": "verified"
+  }
+}
